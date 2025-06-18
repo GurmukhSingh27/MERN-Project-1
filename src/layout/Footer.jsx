@@ -1,13 +1,13 @@
 import React from "react";
 
-const Home = () => {
+const Footer = () => {
   return (
     <>
       <div className="text-center">
-        <h1>Welcome to Home Page</h1>
+        <h1>Footer</h1>
       </div>
     </>
   );
 };
 
-export default Home;
+export default Footer;
