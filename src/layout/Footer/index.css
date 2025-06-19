@@ -1,0 +1,9 @@
+.outer{
+    display: flex;
+}
+.inner1{
+    width: 60%;
+}
+/* .inner2{
+
+} */
